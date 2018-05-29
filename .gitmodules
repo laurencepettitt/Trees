@@ -1,0 +1,6 @@
+[submodule "AVLTree"]
+	path = AVLTree
+	url = git@github.com:laurencepettitt/AVLTree.git
+[submodule "BinarySearchTree"]
+	path = BinarySearchTree
+	url = git@github.com:laurencepettitt/BinarySearchTree.git
